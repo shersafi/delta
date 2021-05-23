@@ -1,6 +1,10 @@
 <h1 align="center">Delta Discord Bot</h1>
 
-![alt text](https://github.com/shersafi/delta/blob/master/delta-logo.png)
+<p align="center">
+  <img src="https://github.com/shersafi/delta/blob/master/delta-logo.png" 
+        width="150"
+        height="150"/>
+</p>
 
 Delta JDA discord bot - a Math discord bot made with JDA.
 
